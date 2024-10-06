@@ -12,7 +12,8 @@
         "README.md",
         "pxt.json",
         "_history",
-        "main.py"
+        "main.py",
+        "r-p-s.ts"
     ],
     "testFiles": [
         "test.ts"
